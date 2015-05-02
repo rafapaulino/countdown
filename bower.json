@@ -22,8 +22,5 @@
     "*.png",
     "jquery.countdown-*.js",
     "jquery.*.min.js"
-  ],
-  "dependencies": {
-    "jquery": ">=1.4"
-  }
+  ]
 }
