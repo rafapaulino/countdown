@@ -1,8 +1,5 @@
 {
-  "name": "kbwood_countdown",
-  "version": "2.0.2",
-  "main": "jquery.countdown.js",
-  "ignore": [],
-  "dependencies": {
-  }
+  "name": "arquivonovo",
+  "version": "0.1",
+  "main": "jquery.countdown.js"
 }
